@@ -1,0 +1,11 @@
+{
+  "jrePath": "jre",
+  "classPath": [
+    "AimTrainer.jar"
+  ],
+  "mainClass": "com.Gabe.AimTrainer.lwjgl3.Lwjgl3Launcher",
+  "useZgcIfSupportedOs": false,
+  "vmArgs": [
+    "-Xmx512m"
+  ]
+}
